@@ -1,4 +1,4 @@
-#Parandatud versioon Team-homework 
+#Pakutud lahenduse versioon Team-homework 
 #Koodi täiendas Taiger Kala
 
 #https://leetcode.com/problems/reverse-string/description/
