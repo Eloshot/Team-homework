@@ -1,0 +1,2 @@
+b) Programm on selgelt loeatav ja lihtne aru saada. Nõrkuseid ei leia selles programmis. 
+c) Minu arvates ei saa etemat lahendust leida, sest kood teeb täpselt seda mis vaja. Ei ole üleliigseid tehteid. Programm teeb täpselt seda mida vaja ette antud tehetega.
