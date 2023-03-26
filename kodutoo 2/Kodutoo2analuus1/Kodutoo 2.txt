@@ -1,0 +1,17 @@
+
+Analuusisime  HW1G-A repository 1.3_homework_gregor
+
+Koodi eelisteks on see, et ta pikkus on O(n) kus n on nums pikkus.
+koodi miinuseks on see, et kui on mitu lahendust siis ta edastab esimese mis tuleb ette.
+
+Ma ise kirjutaks sarnaselt aga kasutags for i in range(len(nums)): asemel for i, num in enumerate(nums): kuna enumerate olevalt parem, ning siis saan nums(i) asmel
+kasutada num. see jätaks koodi blokkskeemi samaks aga lihtsustaks koodi
+
+
+        
+        
+        abi saamine
+        
+        https://www.reddit.com/r/learnpython/comments/nn0il2/rangelens_vs_enumerate/
+        https://www.smartdraw.com/block-diagram/#:~:text=A%20block%20diagram%20is%20a,participants%2C%20and%20important%20working%20relationships.
+        
